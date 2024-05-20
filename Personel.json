@@ -1,0 +1,23 @@
+{
+  "personel": {
+    "Ad": "Ceren",
+    "Soyad": "Pilavci",
+    "DogumTarihi": "1997-06-28",
+    "Adres": {
+      "Il": "Istanbul",
+      "Ilce":"Kadikoy",
+      "Mahalle":"Moda",
+      "Sokak":"2547.Sk",
+      "BinaNo":"2-B",
+      "DaireNo":"16",
+      "AcikAdres":"Belediyenin bir üst sokağı, Selen Cafe üstündeki bina"
+    },
+    "IseGirisTarihi":"20264-06-04",
+    "Departman":"Satış ve Pazarlama",
+    "Unvan": "Uzman",
+    "PersonelNo": "741852",
+    "TCKN": "12345678987"
+
+  }
+
+}

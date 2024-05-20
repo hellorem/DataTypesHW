@@ -1,0 +1,15 @@
+Ad	nvarchar(50)
+Soyad	nvarchar(50)
+DogumTarihi	Date
+Il	nvarchar(50)
+Ilce	nvarchar(50)
+Mahalle	nvarchar(50)
+Sokak	nvarchar(50)
+BinaNo	nvarchar(10)
+DaireNo	Int(5)
+AcikAdres	nvarchar(1000)
+IseGirisTarihi	Date
+Departman	nvarchar(100)
+Unvan	nvarchar(100)
+PersonelNo	Int(15)
+TCKN	Int(11)

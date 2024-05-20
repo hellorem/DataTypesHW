@@ -1,0 +1,20 @@
+<Personel>
+    <Ad>ceren</Ad>
+    <Soyad>pilavcı</Soyad>
+    <DogumTarihi>28-06-1997</DogumTarihi>
+    <Adres>
+        <Il>Istanbul</Il>
+        <Ilce>Kadikoy</Ilce>
+        <Mahalle>Moda</Mahalle>
+        <Sokak>2547.Sk</Sokak>
+        <BinaNo>2-B</BinaNo>
+        <DaireNo>16</DaireNo>
+        <AcikAdres>Belediyenin bir üst sokağı, Selen Cafe üstündeki bina</AcikAdres>
+    </Adres>
+    <IseGirisTarihi>2024-06-04</IseGirisTarihi>
+    <Departman>Satış ve Pazarlama</Departman>
+    <Unvan>Uzman</Unvan>
+    <PersonelNo>741852</PersonelNo>
+    <TCKN>1234578978</TCKN>
+
+</Personel>
